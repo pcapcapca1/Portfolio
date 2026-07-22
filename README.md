@@ -11,3 +11,8 @@ A simple collection of my best work; digital proof of skills, experience, and ca
 # Projects
 ### [Arcade 92 Database II](./C%2B%2B%20Projects/Arcade%2092%20Database%20II)
 Developed an application in C++ that maintains and updates the database system of a theoretical barcade and improves its efficiency. The objective of the program was to use structures and pointers to create linked lists, use knowledge of pointers to modify linked lists, and implement a recursive function.
+### 🧮 [Physics Engine Calculator](./C%2B%2B%20Projects/Physics%20Engine%20Calculator)
+Developed program that acts as a calculator in a physics engine, handling 
+multiple operations and preserving the order of operations. Steps included 
+creating multiple classes that interact with each other, implementing a linked list 
+with classes, and implementing overloaded operators in a class.
