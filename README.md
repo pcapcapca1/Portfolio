@@ -16,3 +16,4 @@ Developed program that acts as a calculator in a physics engine, handling
 multiple operations and preserving the order of operations. Steps included 
 creating multiple classes that interact with each other, implementing a linked list 
 with classes, and implementing overloaded operators in a class.
+### [Information Retrieval System](<Java Projects/Information Retrieval System>)
