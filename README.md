@@ -24,3 +24,5 @@ If someone does a search for all articles about the EM algorithm, this paper (an
 Implement a binary search tree and use it to store and retrieve articles. The tree will be sorted by keyword, and each node will
 contain an unordered linked list of Record objects which contain information about each article that corresponds to that
 keyword.
+### [Processes and Threads](<C++ Projects/Processes and Threads Project>)
+Academic Project made to help familiarize with Unix system calls and Unix processes and threads. It is programmed in C++ and is executed under Linux.
