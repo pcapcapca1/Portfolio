@@ -1,0 +1,10 @@
+all: TH.exe shsh.exe
+
+TH.exe: TH.cpp
+	g++ -std=c++11 -pthread -o TH.exe TH.cpp
+
+shsh.exe: shsh.cpp
+	g++ -std=c++11 -o shsh.exe shsh.cpp
+
+clean:
+	rm -f TH.exe shsh.exe
